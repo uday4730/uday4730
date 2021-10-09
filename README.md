@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Uday Narayan Samanta! 👋
 
-<!--
-**uday4730/uday4730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻  About Me
+- 🌱 I’m currently learning Algorithms, cloud and Machine learning
+- 💬 Ask me about code or tech realted stuffs
+- 🎓 Studying Electrical and Electronics Engineering at Birla Institute of Technology, Mesra.
+- 📫 How to reach me: [Linkedin - @Uday](https://www.linkedin.com/in/uday-narayan-samanta-ba801020b/)
+- ⚡ Fun fact: I love to play chess
 
-Here are some ideas to get you started:
+### 🛠  Tech Stack
+- 💻   C++ Java Python
+- 🌐   HTML5 CSS JavaScript Bootstrap Node.js React
+- 🛢   MySQL
+- ⚙️   Git GitHub
+- 🔧   Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=uday4730&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+### 🤝🏻 Connect with me
+[Linkedin](https://www.linkedin.com/in/uday-narayan-samanta-ba801020b/) 
+[instagram](https://www.instagram.com/uday_9ry9/)
